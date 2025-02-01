@@ -10,4 +10,4 @@ To help speed things up, we're going to start off working with some pre-made ass
 [this](https://github.com/samuelcust/flappy-bird-assets) GitHub repository.
 
 
-> Download the assets here.
+> [Download the assets here.](https://github.com/sidneychurch/Unity-VGP-Flappy/raw/refs/heads/main/flappy-bird-assets.zip)

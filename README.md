@@ -1,6 +1,6 @@
 # Video Game Prototyping With Unity - _Flappy Bird_
 
-![img.png](img.png)![img.png](img.png)
+![img.png](img.png)
 
 
 
