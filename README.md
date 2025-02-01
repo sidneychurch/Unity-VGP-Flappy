@@ -5,7 +5,8 @@
 
 
 >[!TIP]
-> Play [this version of _Flappy Bird_](https://flappybird.io/) to get an idea of what the game play is like.
+> Play [this version of _Flappy Bird_](https://flappybird.io/)  to get an idea of what the game play is like.
+> <a href="https://flappybird.io/" target="_blank"> this version of _Flappy Bird_ </a>
 
 This guide assumes that you've fully completed the previous tutorial or have beginner knowledge of Unity and C#.
 
